@@ -2,8 +2,8 @@
 
 ---
 
-1. [bash練習echo,變數[]判斷](https://github.com/Luba-code/bash-script/blob/main/bash%E7%B7%B4%E7%BF%92echo%2C%E8%AE%8A%E6%95%B8%5B%5D%E5%88%A4%E6%96%B7.md)
-2. [bash練習變數內容,if,參數](https://github.com/Luba-code/bash-script/blob/main/bash%E7%B7%B4%E7%BF%92%E8%AE%8A%E6%95%B8%E5%85%A7%E5%AE%B9%2Cif%2C%E5%8F%83%E6%95%B8.md)
+1. [bash 練習echo,變數[]判斷](https://github.com/Luba-code/bash-script/blob/main/bash%E7%B7%B4%E7%BF%92echo%2C%E8%AE%8A%E6%95%B8%5B%5D%E5%88%A4%E6%96%B7.md)
+2. [bash 練習變數內容,if,參數](https://github.com/Luba-code/bash-script/blob/main/bash%E7%B7%B4%E7%BF%92%E8%AE%8A%E6%95%B8%E5%85%A7%E5%AE%B9%2Cif%2C%E5%8F%83%E6%95%B8.md)
 3. [bash case,grep,通配字元](https://github.com/Luba-code/bash-script/blob/main/bash%20case%2Cgrep%2C%E9%80%9A%E9%85%8D%E5%AD%97%E5%85%83.md)
 4. [bash for...in list,declare,while,?成立:不成立](https://github.com/Luba-code/bash-script/blob/main/bash%20for...in%20list%2Cdeclare%2Cwhile%2C%3F%E6%88%90%E7%AB%8B:%E4%B8%8D%E6%88%90%E7%AB%8B.md)
 5. [bash for(..;..;..),自訂函數,區域變數](https://github.com/Luba-code/bash-script/blob/main/bash%20for(..%3B..%3B..)%2C%E8%87%AA%E8%A8%82%E5%87%BD%E6%95%B8%2C%E5%8D%80%E5%9F%9F%E8%AE%8A%E6%95%B8.md)
